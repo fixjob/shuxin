@@ -1,0 +1,53 @@
+2017-06-19T11:40:31.508Z - normal: Load ~/.CocosCreator/settings.json
+2017-06-19T11:40:31.524Z - normal: checking language setting...
+2017-06-19T11:40:31.524Z - normal: Language: zh
+2017-06-19T11:40:34.082Z - success: protocol editor-framework registered
+2017-06-19T11:40:34.082Z - success: protocol app registered
+2017-06-19T11:40:34.082Z - success: protocol theme registered
+2017-06-19T11:40:34.082Z - success: protocol profile registered
+2017-06-19T11:40:34.082Z - success: protocol packages registered
+2017-06-19T11:40:34.082Z - success: protocol unpack registerred
+2017-06-19T11:40:34.098Z - success: protocol disable-commonjs registerred
+2017-06-19T11:40:34.363Z - normal: connected!
+2017-06-19T11:40:34.363Z - normal: Check project F:\ccc\ciga2017-2
+2017-06-19T11:40:34.394Z - normal: Initializing Cocos2d
+2017-06-19T11:40:35.381Z - normal: Initializing Asset Database
+2017-06-19T11:40:35.521Z - success: protocol uuid registerred
+2017-06-19T11:40:35.521Z - success: protocol db registerred
+2017-06-19T11:40:35.521Z - success: protocol thumbnail registerred
+2017-06-19T11:40:35.521Z - normal: Loading editor/builtin packages
+2017-06-19T11:40:35.599Z - success: anysdk loaded
+2017-06-19T11:40:36.069Z - success: assets loaded
+2017-06-19T11:40:36.069Z - success: builder loaded
+2017-06-19T11:40:36.085Z - success: hierarchy loaded
+2017-06-19T11:40:36.100Z - success: inspector loaded
+2017-06-19T11:40:36.100Z - success: keystore loaded
+2017-06-19T11:40:36.116Z - success: node-library loaded
+2017-06-19T11:40:36.116Z - success: package-asset loaded
+2017-06-19T11:40:36.132Z - success: preferences loaded
+2017-06-19T11:40:36.194Z - success: project-importer loaded
+2017-06-19T11:40:36.194Z - success: project-settings loaded
+2017-06-19T11:40:36.210Z - success: ui-kit loaded
+2017-06-19T11:40:36.210Z - success: ui-grid loaded
+2017-06-19T11:40:36.225Z - success: scene loaded
+2017-06-19T11:40:36.225Z - success: sprite-editor loaded
+2017-06-19T11:40:36.241Z - success: store loaded
+2017-06-19T11:40:36.256Z - success: timeline loaded
+2017-06-19T11:40:36.256Z - normal: Loading builtin packages
+2017-06-19T11:40:36.256Z - success: asset-db-debugger loaded
+2017-06-19T11:40:36.272Z - success: code-editor loaded
+2017-06-19T11:40:36.272Z - success: color-picker loaded
+2017-06-19T11:40:36.272Z - success: console loaded
+2017-06-19T11:40:36.288Z - success: package-manager loaded
+2017-06-19T11:40:36.319Z - success: sdkbox loaded
+2017-06-19T11:40:36.334Z - success: tester loaded
+2017-06-19T11:40:36.350Z - success: ui-kit-preview-extra loaded
+2017-06-19T11:40:36.350Z - success: ui-kit-preview loaded
+2017-06-19T11:40:36.350Z - success: ui-tree loaded
+2017-06-19T11:40:40.249Z - normal: Initializing project F:\ccc\ciga2017-2
+2017-06-19T11:40:40.264Z - normal: Loading packages
+2017-06-19T11:40:41.263Z - success: quick-preview loaded
+2017-06-19T11:40:41.263Z - normal: Watching packages
+2017-06-19T11:40:41.372Z - normal: Run Application
+2017-06-19T11:40:42.949Z - success: preview server running at http://localhost:7456
+2017-06-19T11:40:57.676Z - normal: 1.5.1-beta.4.2

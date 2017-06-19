@@ -1,0 +1,107 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1616,
+      "height": 876,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 375,
+                "type": "panel",
+                "width": 420
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 371,
+                "type": "panel",
+                "width": 420
+              }
+            ],
+            "height": 749,
+            "type": "dock-v",
+            "width": 420
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 514.984375,
+                "type": "panel",
+                "width": 454
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 231,
+                "type": "panel",
+                "width": 454
+              }
+            ],
+            "height": 749,
+            "type": "dock-v",
+            "width": 454
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 749,
+            "type": "panel",
+            "width": 714
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "console",
+        "inspector",
+        "hierarchy",
+        "assets",
+        "scene",
+        "timeline"
+      ]
+    }
+  },
+  "panels": {
+    "project-settings": {
+      "x": 502,
+      "y": 151,
+      "width": 600,
+      "height": 564
+    },
+    "builder": {
+      "x": 542,
+      "y": 51,
+      "width": 516,
+      "height": 738
+    },
+    "preferences": {
+      "x": 512,
+      "y": 151,
+      "width": 878,
+      "height": 564
+    }
+  }
+}

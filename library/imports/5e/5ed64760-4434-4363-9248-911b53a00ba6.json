@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "对话框_03",
+    "texture": "bc7cfb3b-390a-4747-a6f2-038ff0883524",
+    "atlas": "",
+    "rect": [
+      10,
+      8,
+      687,
+      223
+    ],
+    "offset": [
+      5,
+      -4
+    ],
+    "originalSize": [
+      697,
+      231
+    ]
+  }
+}

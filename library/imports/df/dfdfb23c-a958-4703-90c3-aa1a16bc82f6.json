@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "血滴",
+    "texture": "8766da7d-b2ec-4f05-9b7e-f892590aae16",
+    "atlas": "",
+    "rect": [
+      10,
+      20,
+      41,
+      34
+    ],
+    "offset": [
+      -1.5,
+      -1.5
+    ],
+    "originalSize": [
+      64,
+      71
+    ]
+  }
+}

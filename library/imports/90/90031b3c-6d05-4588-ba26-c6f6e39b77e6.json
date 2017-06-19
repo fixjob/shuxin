@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guang",
+    "texture": "e542313c-c81b-4cb6-86e1-eed0de268119",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      68
+    ],
+    "offset": [
+      -2.5,
+      0.5
+    ],
+    "originalSize": [
+      75,
+      69
+    ]
+  }
+}
